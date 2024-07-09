@@ -6,5 +6,5 @@ In Unix basement systems run the compiled file with:
 ```bash
 ./"Name of the compiled file."
 ```
-:)
+
 
