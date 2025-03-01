@@ -6,5 +6,7 @@ In Unix basement systems run the compiled file with:
 ```bash
 ./"Name of the compiled file."
 ```
-
-
+For compiling in Nixos use the nixenv:
+```bash
+ nix-shell -p gcc11
+```
